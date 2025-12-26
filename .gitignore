@@ -1,0 +1,10 @@
+/.env
+/.env.example
+/node_modules
+/package-lock.json
+/schema.sql
+/sessions.csv
+/src/session_creator.js
+/flamestars
+/tabchi
+/temp
